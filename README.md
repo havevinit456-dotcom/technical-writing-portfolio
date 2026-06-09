@@ -1,25 +1,36 @@
-# Vinit Kumar Mishra
+# 👋 Hi, I'm Vinit Kumar Mishra
 
-Technical Writer with 4+ years of experience in creating user-focused documentation for enterprise software, CRM, BFSI, Smart Metering, and Energy Management solutions.
+### Technical Writer | Product Documentation Specialist
 
-## Portfolio
+Transforming complex products into clear, user-focused documentation.
 
-This repository contains selected technical writing samples demonstrating my experience in:
+## 🎯 Expertise
 
-* Product Documentation
-* User Guides
-* Release Notes
-* Installation & Configuration Guides
-* Process Documentation
-* Knowledge Base Content
+- Product Documentation
+- User Guides
+- Release Notes
+- CRM & BFSI Documentation
+- Smart Metering Solutions
 
-## Professional Experience
+## 🛠 Tools & Technologies
 
-* Landis+Gyr – Technical Writer
-* BUSINESSNEXT – Technical Writer
+- DITA XML
+- Adobe FrameMaker
+- Oxygen XML Editor
+- SharePoint
+- Git & GitHub
 
-## Contact
+## 📚 Portfolio
+
+📄 [Technical Writing Samples](Documentation%20Work%20Samples_Final.pdf)
+
+## 🚀 Currently Learning
+
+- API Documentation
+- Docs-as-Code
+- Kubernetes Documentation
+
+## 🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/vinitm08/
-
-Email: [havevinit456@gmail.com](mailto:havevinit456@gmail.com)
+Email: havevinit456@gmail.com
